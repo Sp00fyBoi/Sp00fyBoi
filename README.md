@@ -1,4 +1,4 @@
-![]([https://github.com/user/banner.png](https://github.com/Sp00fyBoi/Sp00fyBoi/blob/main/Banner1.png?raw=true))
+![](https://github.com/Sp00fyBoi/Sp00fyBoi/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Thanseer Hishak</h1>
 <h3 align="center">A passionate developer from India</h3>
 
