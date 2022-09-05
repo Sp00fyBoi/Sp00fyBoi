@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Thanseer Hishak</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="400px" left-padding="20px" right-padding="20px" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="400px" left-padding="30px" right-padding="50px" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" left-padding="20px" right-padding="20px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" left-padding="50px" right-padding="30px" /></p>
 
  <br />
 
