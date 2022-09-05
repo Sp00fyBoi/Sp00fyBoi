@@ -6,7 +6,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" left-padding="50px" right-padding="30px" /></p>
 
- <br />
+ <br /><br /><br /><br /><br />
 
 - 🏫 I am currently pursuing B.tech Information Technology in SSN College of Engineering
 
