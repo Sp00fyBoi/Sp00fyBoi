@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="40%"/></p>
 
 
- <br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 - 🏫 I am currently pursuing B.tech Information Technology in SSN College of Engineering
 
