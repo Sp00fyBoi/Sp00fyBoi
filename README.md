@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **thanseer.hishak30@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r1BI8LjjxibcRws4iJ5wTwOnYc-bvH1l/view?usp=sharing](https://drive.google.com/file/d/1r1BI8LjjxibcRws4iJ5wTwOnYc-bvH1l/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1r1BI8LjjxibcRws4iJ5wTwOnYc-bvH1l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
