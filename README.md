@@ -12,7 +12,7 @@
 
 - 🏫 I am currently pursuing B.tech Information Technology in SSN College of Engineering
 
-- 🔭 I’m currently working on [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
+- 🔭 My most recent project [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
 
 - 🌱 I’m currently learning **JS-JAVA**
 
