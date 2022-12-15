@@ -3,19 +3,19 @@
 <h3 align="center">A passionate developer from India</h3>
 <br /><br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="50%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="50%" height="100px"/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="40%" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="40%" height="100px"/></p>
 
  <br /><br /><br /><br /><br /><br /><br /><br />
 
 - 🏫 I am currently pursuing B.tech Information Technology in SSN College of Engineering
 
-- 🔭 I’m currently working on [Rishab's App](https://github.com/Sp00fyBoi/Rishab-Order-Management-WebAPP)
+- 🔭 I’m currently working on [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
 
 - 🌱 I’m currently learning **JS-JAVA**
 
-- 👨‍💻 All of my projects are available at [https://sp00fyboi.github.io/Sp00fyBoi/](https://sp00fyboi.github.io/Sp00fyBoi/)
+- 👨‍💻 All of my projects are available at [Sp00fyBoi](https://sp00fyboi.github.io/Sp00fyBoi/)
 
 - 📫 How to reach me **thanseer.hishak30@gmail.com**
 
