@@ -3,9 +3,9 @@
 <h3 align="center">A passionate developer from India</h3>
 <br /><br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="40%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="50%"/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="50%"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="40%"/></p>
 
 
  <br /><br /><br /><br /><br /><br /><br /><br />
