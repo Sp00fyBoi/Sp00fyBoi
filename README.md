@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Thanseer Hishak</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br /><br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="50%"/></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="45%"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sp00fyboi&label=Profile%20views&color=0e75b6&style=flat" alt="sp00fyboi" /> <img src="https://img.shields.io/badge/Gamer-True-green" alt="sp00fyboi" /></p>
 
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<p style="display: flex; justify-content: space-around;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="40%" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="40%" /> </p>
+
+<br/>
+<!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> -->
 
 - 🏫 I am currently pursuing B.tech Information Technology in SSN College of Engineering
 
-- 🔭 My most recent project [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
+- 🔭 I’m currently working on [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
 
 - 🌱 I’m currently learning **JS-JAVA**
 
