@@ -3,15 +3,10 @@
 <h3 align="center">A passionate developer from India</h3>
 <br /><br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="50%" height="100px"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="100%"/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="40%" height="100px"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="100%"/></p>
 
-<div style="background: red" markdown=1> 
-
-Testing **Markdown** inside a red-background div. 
-
-</div>
 
  <br /><br /><br /><br /><br /><br /><br /><br />
 
