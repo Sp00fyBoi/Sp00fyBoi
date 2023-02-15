@@ -16,7 +16,7 @@
  
 - 🔭 I’m currently working on [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
 
-- 🌱 I’m currently learning **JS-JAVA**
+- 🌱 I’m currently learning **Game developement using Unity**
 
 - 👨‍💻 All of my projects are available at [Sp00fyBoi](https://sp00fyboi.github.io/Sp00fyBoi/)
 
