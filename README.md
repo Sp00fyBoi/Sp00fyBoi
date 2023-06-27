@@ -14,7 +14,7 @@
 
 - 🔭My recent project [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
  
-- 🔭 I’m currently working on [Rishab's App](https://github.com/Sp00fyBoi/Rishabs-App)
+- 🔭 I’m currently working on [Learning Management System]()
 
 - 🌱 I’m currently learning **Game developement using Unity**
 
