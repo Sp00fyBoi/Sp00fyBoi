@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **thanseer.hishak30@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1YdqtFStUY1VfvUNt0zi99Ymeh965BTYH)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PZr-cHXNwdQziK9j9HwT35HbrhX-1F0m/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
