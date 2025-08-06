@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Deputy%20Manager–Ashok%20Leyland-blue" alt="Deputy Manager" /> <img src="https://img.shields.io/badge/CEH–Certified-green" alt="Certified Ethical Hacker" /> 
 
 ---
-<br />
 
 ## 🏢 Work
 
