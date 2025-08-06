@@ -7,10 +7,10 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Deputy%20Manager–Ashok%20Leyland-blue" alt="Deputy Manager" /> <img src="https://img.shields.io/badge/CEH–Certified-green" alt="Certified Ethical Hacker" /> </p> <p style="display: flex; justify-content: space-between;"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sp00fyboi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sp00fyboi" width="45%" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sp00fyboi&theme=dark" alt="sp00fyboi" width="50%" /> </p>
+<img src="https://img.shields.io/badge/Deputy%20Manager–Ashok%20Leyland-blue" alt="Deputy Manager" /> <img src="https://img.shields.io/badge/CEH–Certified-green" alt="Certified Ethical Hacker" /> 
 
 ---
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br />
 
 ## 🏢 Work
 
