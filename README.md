@@ -27,6 +27,8 @@
 
 ## 📫 Connect with me:
 
+- Email: [thanseer.hishak30@gmail.com](mailto:thanseer.hishak30@gmail.com)
+  
 <p align="left"> <a href="https://twitter.com/thanseerhishak" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanseerhishak" height="30" width="40" /> </a> <a href="https://linkedin.com/in/thanseer-hishak" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanseer-hishak" height="30" width="40" /> </a> <a href="https://instagram.com/spoofy.boi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spoofy.boi" height="30" width="40" /> </a> <a href="https://discordapp.com/users/500030275976298508/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> </a> </p>
 
 ## 🛠️ Tools & Tech
