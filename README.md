@@ -126,13 +126,10 @@ Mobile & Full-Stack Developer building enterprise-grade Flutter applications for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sp00fyBoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="Thanseer's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp00fyBoi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img width="100%" src="https://raw.githubusercontent.com/Sp00fyBoi/Sp00fyBoi/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sp00fyBoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<sub align="center">Self-hosted via <a href="https://github.com/Sp00fyBoi/Sp00fyBoi/actions/workflows/metrics.yml">a GitHub Action</a> in this repo, refreshed every 12 hours — no third-party rendering service in the loop.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
 
