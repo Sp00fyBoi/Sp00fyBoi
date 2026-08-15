@@ -18,93 +18,24 @@
 
 ## 👨‍💻 About Me
 
-Mobile & Full-Stack Developer building enterprise-grade Flutter applications for Android, iOS, and Flutter Web — backed by Django services and SAP integration. Sole frontend owner of an HRMS platform serving 9,500+ users across 9 plant locations, and a shop-floor tracking system delivered as a frugal in-house alternative to vendor solutions quoted in the crores. Comfortable across Clean Architecture, Bloc/Cubit, REST APIs, AI-powered OCR, biometric authentication, encryption hardening, and self-hosted infrastructure. Recognized with **"Best Debut of the Year"** for rapid impact and delivery quality.
+Mobile & Full-Stack Developer building enterprise-grade Flutter apps, backed by Django and SAP integration.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Users_Served-9%2C500%2B-7dcfff?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Daily_Active_Users-4K--6K-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Plant_Locations-9-f7768e?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Screens_Shipped-100%2B-7dcfff?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Post--launch_Defects-0-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-</p>
+- Sole frontend owner of an HRMS platform serving **9,500+ users** across **9 plants**
+- Built a shop-floor tracking system in-house, replacing a vendor quote in the crores
+- Work spans Clean Architecture, Bloc/Cubit, REST APIs, AI-powered OCR, and encryption hardening
+- **CEH certified** · self-hosted homelab enthusiast
+- Awarded **"Best Debut of the Year"** at Ashok Leyland
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
 
 ## 🧰 Tech Stack
 
-<h3>Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1b27" />
-</p>
-
-<h3>Mobile & Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Bloc%2FCubit-7dcfff?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/GoRouter-7dcfff?style=for-the-badge&labelColor=1a1b27" />
-</p>
-
-<h3>Backend & Data</h3>
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1b27" />
-</p>
-
-<h3>DevOps & Infra</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/RHEL%2FLinux-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1b27" />
-</p>
-
-<h3>AI & Security</h3>
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/OCR-f7768e?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/AES--GCM-f7768e?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Biometric%20Auth-f7768e?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Root%20Detection-f7768e?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Anti--Debugging-f7768e?style=for-the-badge&labelColor=1a1b27" />
-</p>
-
-<h3>Tools & Practices</h3>
-<p>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/CodeRabbit-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Taiga-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/KiwiTCMS-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-</p>
-
-<h3>Also Familiar With</h3>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-</p>
+**Languages:** Dart, Python, TypeScript/JavaScript, Java, C/C++<br/>
+**Mobile:** Flutter, Bloc/Cubit, React Native, Expo<br/>
+**Backend & Data:** Django, REST APIs, SAP BAPI, PostgreSQL, MySQL, SQLite, Firebase<br/>
+**DevOps & Infra:** Docker, Proxmox, RHEL, Tailscale, n8n, Git<br/>
+**Security:** JWT, AES-GCM, Biometric Auth, Root Detection, Google Gemini OCR<br/>
+**Tools:** Clerk, PostHog, Postman, Android Studio, Taiga, KiwiTCMS
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
 
@@ -126,10 +57,12 @@ Mobile & Full-Stack Developer building enterprise-grade Flutter applications for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sp00fyBoi/Sp00fyBoi/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://streak-stats.demolab.com?user=Sp00fyBoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<sub align="center">Self-hosted via <a href="https://github.com/Sp00fyBoi/Sp00fyBoi/actions/workflows/metrics.yml">a GitHub Action</a> in this repo, refreshed every 12 hours — no third-party rendering service in the loop.</sub>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sp00fyBoi/Sp00fyBoi/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
 
