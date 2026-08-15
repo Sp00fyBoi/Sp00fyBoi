@@ -1,36 +1,154 @@
 <p align="center">
-<img src="https://github.com/Sp00fyBoi/Sp00fyBoi/blob/main/portfolio/Banner.png" alt="Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/Sp00fyBoi/Sp00fyBoi/main/portfolio/Banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Thanseer Hishak</h1>
-<h3 align="center">A passionate Flutter developer at Ashok Leyland</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Developer-Ashok%20Leyland-7dcfff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27" alt="Flutter Developer" />
+  <img src="https://img.shields.io/badge/Deputy%20Manager-Digital%20Products%20%26%20Solutions-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Deputy Manager" />
+  <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-f7768e?style=for-the-badge&logo=cyberdefenders&logoColor=white&labelColor=1a1b27" alt="CEH Certified" />
+</p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
 
-<img src="https://img.shields.io/badge/Deputy%20Manager–Ashok%20Leyland-blue" alt="Deputy Manager" /> <img src="https://img.shields.io/badge/CEH–Certified-green" alt="Certified Ethical Hacker" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DCFFF&background=00000000&center=true&vCenter=true&width=650&height=50&lines=Flutter+Developer+%40+Ashok+Leyland;Building+Enterprise+HRMS+for+9%2C500%2B+Users;Clean+Architecture+%2B+Bloc%2FCubit+%2B+Django%2FSAP;CEH+Certified+%C2%B7+Self-Hosted+Homelab+Enthusiast" alt="Typing SVG" />
+</p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
 
-## 🏢 Work
+## 👨‍💻 About Me
 
-- **Deputy Manager (SDE)** at Ashok Leyland since **July 2024**
-- 💻 Full-time **Flutter Developer**, working with Android Studio, Flutter & Dart
+Mobile & Full-Stack Developer building enterprise-grade Flutter applications for Android, iOS, and Flutter Web — backed by Django services and SAP integration. Sole frontend owner of an HRMS platform serving 9,500+ users across 9 plant locations, and a shop-floor tracking system delivered as a frugal in-house alternative to vendor solutions quoted in the crores. Comfortable across Clean Architecture, Bloc/Cubit, REST APIs, AI-powered OCR, biometric authentication, encryption hardening, and self-hosted infrastructure. Recognized with **"Best Debut of the Year"** for rapid impact and delivery quality.
 
-## 🔭 Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Users_Served-9%2C500%2B-7dcfff?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Daily_Active_Users-4K--6K-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Plant_Locations-9-f7768e?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Screens_Shipped-100%2B-7dcfff?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Post--launch_Defects-0-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+</p>
 
-- 👨‍💻 [See my portfolio](https://github.com/Sp00fyBoi/Sp00fyBoi/tree/main/portfolio)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
 
-## 🌱 Learning
+## 🧰 Tech Stack
 
-- Building a homelab—exploring networking, security, cloud, Linux, Docker, LXC, Proxmox, and more
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1b27" />
+</p>
 
-## 📫 Connect with me:
+<h3>Mobile & Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Bloc%2FCubit-7dcfff?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/GoRouter-7dcfff?style=for-the-badge&labelColor=1a1b27" />
+</p>
 
-- Email: [thanseer.hishak30@gmail.com](mailto:thanseer.hishak30@gmail.com)
-  
-<p align="left"> <a href="https://twitter.com/thanseerhishak" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thanseerhishak" height="30" width="40" /> </a> <a href="https://linkedin.com/in/thanseer-hishak" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanseer-hishak" height="30" width="40" /> </a> <a href="https://instagram.com/spoofy.boi" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spoofy.boi" height="30" width="40" /> </a> <a href="https://discordapp.com/users/500030275976298508/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /> </a> </p>
+<h3>Backend & Data</h3>
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1b27" />
+</p>
 
-## 🛠️ Tools & Tech
+<h3>DevOps & Infra</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/RHEL%2FLinux-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1b27" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h3>AI & Security</h3>
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/OCR-f7768e?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/AES--GCM-f7768e?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Biometric%20Auth-f7768e?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Root%20Detection-f7768e?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Anti--Debugging-f7768e?style=for-the-badge&labelColor=1a1b27" />
+</p>
+
+<h3>Tools & Practices</h3>
+<p>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/CodeRabbit-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Taiga-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/KiwiTCMS-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+</p>
+
+<h3>Also Familiar With</h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
+
+## 🚀 Featured Projects
+
+| Project | Summary | Tech | Link |
+|---|---|---|---|
+| **Connected Associates** — Enterprise HRMS | Sole frontend owner, 100+ screens, 9,500+ users / 4–6K DAU across 9 plants, biometric auth + FCM push, zero post-launch defects | `Flutter` `Bloc/Cubit` `Django` `SAP BAPI` `Firebase FCM` `Biometric Auth` | ![Private](https://img.shields.io/badge/Access-Enterprise%20%2F%20Private-lightgrey?style=for-the-badge) |
+| **Cabin Flow** — Paint Shop Cabin Tracking | In-house alternative to a crore-priced vendor RFID quote; Gemini OCR cabin scanning, 6-stage workflow across 2 lines, tablet/TV/web dashboards | `Flutter Web` `Google Gemini OCR` `Django` `SAP` `AES-GCM` | ![Private](https://img.shields.io/badge/Access-Enterprise%20%2F%20Private-lightgrey?style=for-the-badge) |
+| **Recurrly** — Subscription Manager | Personal React Native app: on-device persistence, Clerk auth, PostHog analytics, CI-reviewed via CodeRabbit, EAS build pipelines | `React Native` `Expo` `TypeScript` `NativeWind` `Clerk` `PostHog` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sp00fyBoi/react-native-recurrly) |
+| **Self-Hosted Homelab** | Proxmox cluster: NAS, self-hosted photo platform, internal DNS filtering, Tailscale mesh VPN, uptime monitoring, local AI serving | `Proxmox` `Docker` `Tailscale` `Linux` | ![Infra](https://img.shields.io/badge/Type-Personal%20Infra-lightgrey?style=for-the-badge) |
+
+**Other notable work:**
+- **Taiga.io & KiwiTCMS Rollout** — self-hosted RHEL Scrum tooling + test-case management for a team with no prior Agile process. `RHEL` `Taiga` `KiwiTCMS`
+- **SLA Breach Escalation Automation** — AI-driven n8n workflow routing escalations to a 5-engineer team via email/Teams based on availability. `n8n` `AI Routing`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sp00fyBoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="Thanseer's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp00fyBoi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sp00fyBoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:7dcfff,100:1a1b27&height=3" />
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:thanseer.hishak30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/thanseer-hishak30"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
+  <a href="https://github.com/Sp00fyBoi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/thanseerhishak"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/spoofy.boi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/500030275976298508/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sp00fyBoi&style=for-the-badge&color=7dcfff&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:1a1b27&height=100&section=footer" />
